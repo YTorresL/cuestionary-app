@@ -13,7 +13,9 @@
 /out/
 
 # production
-/build
+# /build
+
+/.history
 
 # misc
 .DS_Store
